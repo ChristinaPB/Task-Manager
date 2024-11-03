@@ -4,7 +4,7 @@ import { getFirestore, collection, addDoc, onSnapshot } from "https://www.gstati
 
 // Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyA0qDrcuQI0beNPx_NVq92MWmByiXvNt8g",
+  apiKey: "",
   authDomain: "task-manager-f9adf.firebaseapp.com",
   projectId: "task-manager-f9adf",
   storageBucket: "task-manager-f9adf.appspot.com",
